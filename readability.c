@@ -2,6 +2,7 @@
 #include <string.h>
 #include <math.h>
 
+// This program uses the Coleman-Liau index to rank text that it is given at a reading grade level. 
 
 int main(void)
 {
