@@ -5,7 +5,7 @@
 // test input: abcdefghijklmnopqrstuvwxyz
 // test input 2: zyxwvutsrqponmlkjihgfedcba
 
-int main(int argc, string argv[])
+int main(int argc, char* argv[])
 {
     if (argc != 2 || strlen(argv[1]) != 26)
     {
